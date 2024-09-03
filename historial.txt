@@ -1,0 +1,18 @@
+    1  ls
+    2  ls -1
+    3  ls -la
+    4  man ls
+    5  man man
+    6  pwd
+    7  whoami
+    8  echo "hola"
+    9  echo $HOME
+   10  ls
+   11  cat README
+   12  cd repogit
+   13  git clone https://github.com/IvanRomanMakina/Repo-Roman.git
+   14  ls
+   15  cd Repo-Roman/
+   16  ls
+   17  history
+   18  history > historial.txt
